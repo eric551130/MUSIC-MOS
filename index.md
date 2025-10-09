@@ -1,5 +1,5 @@
 評分網址：
-<a href="https://forms.gle/e6PiGo6iJpQqQfW38" target="_blank">https://forms.gle/t2uB7DmcnVKBrmSdA</a>
+<a href="https://forms.gle/t2uB7DmcnVKBrmSdA" target="_blank">https://forms.gle/t2uB7DmcnVKBrmSdA</a>
 
 <!-- CP -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/CP/1.wav -->
