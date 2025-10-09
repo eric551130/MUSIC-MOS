@@ -19,8 +19,8 @@
 <!-- RL -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/1.wav -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/2.wav -->
+<!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/3.wav -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/4.wav -->
-<!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/5.wav -->
 <!-- RL+Novelty -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/RL+Novelty/1.wav -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/RL+Novelty/2.wav -->
@@ -32,9 +32,9 @@
     <tr>
       <td>1</td>
       <th><audio controls>
-        <source src="https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/4.wav"
+        <source src="https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/3.wav"
         type="audio/mpeg">
-        <!-- RL/4 -->
+        <!-- RL/3 -->
        </audio></th>
       <td>2</td>
       <td><audio controls>
@@ -108,9 +108,9 @@
        </audio></th>
       <td>12</td>
       <td><audio controls>
-        <source src="https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/5.wav"
+        <source src="https://eric551130.github.io/MOS_ver1/MOS_WAV/RL/4.wav"
         type="audio/mpeg">
-        <!-- RL/5 -->
+        <!-- RL/4 -->
        </audio></td>
     </tr>
     <tr>
