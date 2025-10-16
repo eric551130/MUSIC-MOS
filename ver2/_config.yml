@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 
+title: MOS Ver.2
+
 exclude:
   - README.md
   - assets/js
