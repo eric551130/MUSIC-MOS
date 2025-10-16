@@ -34,19 +34,19 @@
 <!-- https://drive.google.com/file/d/1gK3OwWuVaWEtV39yaTJRUzxw9VRzaEbi/view?usp=drive_link -->
 <!-- https://drive.google.com/file/d/1EdPAZvUYrLTuKLVOX5xQNmDfA0WGdpg_/view?usp=drive_link -->
 
-<<table>
+<table>
     <tr>
       <td>1</td>
       <th><audio controls>
         <source src="https://docs.google.com/uc?export=open&id=1gK3OwWuVaWEtV39yaTJRUzxw9VRzaEbi"
-        type="audio/mpeg">
+        type="audio/wav">
         <!-- RL/3 -->
        </audio></th>
       <td>2</td>
       <td><audio controls>
         <source src="https://docs.google.com/uc?export=open&id=1EdPAZvUYrLTuKLVOX5xQNmDfA0WGdpg_"
-        type="audio/mpeg">
+        type="audio/wav">
         <!-- Expert/2 -->
        </audio></td>
     </tr>
-</table>>
+</table>
