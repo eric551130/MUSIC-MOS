@@ -29,11 +29,12 @@
 <!-- https://eric551130.github.io/MuiscRepo/ver2/RL+Novelty/4.wav -->
 
 
+
 <table>
     <tr>
       <td>1</td>
       <th><audio controls>
-        <source src="https://eric551130.github.io/MuiscRepo/ver2/CP/4.wav"
+        <source src="https://raw.githubusercontent.com/eric551130/MuiscRepo/mian/ver2/CP/4.wav"
         type="audio/mpeg">
         <!-- CP/4 -->
        </audio></th>
@@ -103,7 +104,7 @@
     <tr>
       <td>11</td>
       <th><audio controls>
-        <source src="https://eric551130.github.io/MuiscRepo/ver2/CP/1.wav"
+        <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/CP/1.wav"
         type="audio/mpeg">
         <!-- CP/1 -->
        </audio></th>
