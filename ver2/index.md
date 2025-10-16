@@ -1,6 +1,3 @@
-評分網址：
-<a href="https://forms.gle/t2uB7DmcnVKBrmSdA" target="_blank">https://forms.gle/t2uB7DmcnVKBrmSdA</a>
-
 <!-- CP -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/CP/1.wav -->
 <!-- https://eric551130.github.io/MOS_ver1/MOS_WAV/CP/2.wav -->
@@ -35,19 +32,4 @@
 <!-- https://drive.google.com/file/d/1gK3OwWuVaWEtV39yaTJRUzxw9VRzaEbi/view?usp=drive_link -->
 <!-- https://drive.google.com/file/d/1EdPAZvUYrLTuKLVOX5xQNmDfA0WGdpg_/view?usp=drive_link -->
 
-<table>
-    <tr>
-      <td>1</td>
-      <th><audio controls>
-        <source src="https://docs.google.com/uc?export=open&id=1gK3OwWuVaWEtV39yaTJRUzxw9VRzaEbi"
-        type="audio/mpeg">
-        <!-- RL/3 -->
-       </audio></th>
-      <td>2</td>
-      <td><audio controls>
-        <source src="https://docs.google.com/uc?export=open&id=1EdPAZvUYrLTuKLVOX5xQNmDfA0WGdpg_"
-        type="audio/mpeg">
-        <!-- Expert/2 -->
-       </audio></td>
-    </tr>
-</table>
+<h1> MOS </h1>
