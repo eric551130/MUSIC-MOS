@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+
+exclude:
+  - README.md
+  - assets/js
+  - node_modules
+  - vendor
+  - Gemfile.lock
+  - package.json
+  - yarn.lock
+  - yarn-error.log
+
+keep_files:
+  - assets/js
