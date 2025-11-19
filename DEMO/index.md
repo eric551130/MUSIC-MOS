@@ -33,25 +33,25 @@
           <td>1</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/1.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
         <tr>
           <td>2</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/2.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
         <tr>
           <td>3</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/3.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
         <tr>
           <td>4</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/4.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
     </table>
 </section>
@@ -64,25 +64,25 @@
           <td>1</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/1.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
         <tr>
           <td>2</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/2.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
         <tr>
           <td>3</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/3.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
         <tr>
           <td>4</td>
           <th><audio controls>
             <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/4.wav" type="audio/wav">
-          </th>
+          </audio></th>
         </tr>
     </table>
 </section>
