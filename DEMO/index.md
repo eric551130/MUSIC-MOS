@@ -1,6 +1,4 @@
-<h1> MOS ver.2 </h1>
-評分網址：
-<a href="https://forms.gle/7naEuSQy34byXTAx7" target="_blank">https://forms.gle/7naEuSQy34byXTAx7</a>
+<h1> DEMO </h1>
 
 <!-- CP -->
 <!-- https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/CP/1.wav -->
