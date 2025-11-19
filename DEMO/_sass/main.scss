@@ -103,3 +103,15 @@ $instrument-colors: #007bff, #20c997, #dc3545, #6610f2, #ffc107, #e83e8c, #17a2b
     background: linear-gradient(#fefefe, #e9e9e9);
   }
 }
+
+// 讓表格置中
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  
+  th, td {
+    text-align: center;
+    padding: 8px 12px;
+  }
+}
