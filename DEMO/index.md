@@ -1,21 +1,3 @@
-<style>
-  section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  table {
-    margin: 20px auto;
-    border-collapse: collapse;
-  }
-  
-  table th, table td {
-    text-align: center;
-    padding: 10px 15px;
-  }
-</style>
-
 <h1> DEMO </h1>
 
 <!-- CP -->
