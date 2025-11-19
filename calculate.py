@@ -70,6 +70,35 @@ def MOS_of_models(mos_list):
         'RL+Novelty': RL_Novelty_mos
     }
 
+def print_each_song_mos(mos_list):
+    # Define model names and their song numbers based on the index mappings
+    song_info = [
+        ('CP', 4), ('Expert', 3), ('LLaMA', 1), ('RL', 4), ('RL+Novelty', 4),  # positions 1-5
+        ('CP', 2), ('Expert', 1), ('LLaMA', 3), ('RL', 2), ('RL+Novelty', 1),  # positions 6-10
+        ('CP', 1), ('Expert', 4), ('CP', 3), ('LLaMA', 4), ('RL+Novelty', 3),  # positions 11-15
+        ('RL', 1), ('Expert', 2), ('LLaMA', 2), ('RL', 3), ('RL+Novelty', 2)   # positions 16-20
+    ]
+    
+    # Organize data by model
+    model_songs = {
+        'Expert': {},
+        'CP': {},
+        'LLaMA': {},
+        'RL': {},
+        'RL+Novelty': {}
+    }
+    
+    for i, (model, song_num) in enumerate(song_info):
+        model_songs[model][song_num] = mos_list[i]
+    
+    # Print sorted results
+    print("\nMOS for each song:")
+    for model in ['Expert', 'CP', 'LLaMA', 'RL', 'RL+Novelty']:
+        for song_num in sorted(model_songs[model].keys()):
+            print(f"{model}/{song_num}: {model_songs[model][song_num]:.2f}")
+        print()  # Add blank line between models
+
+
 def plot_mos_violin(mos_list):
     os.makedirs('figures', exist_ok=True)
 
@@ -125,6 +154,7 @@ def main():
         print(f"  {model}: {score:.4f}")
 
     # plot_mos_violin(average_mos)
+    print_each_song_mos(average_mos)
 
 if __name__ == "__main__":
     main()
