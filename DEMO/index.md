@@ -39,7 +39,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/LLaMA/1.wav" type="audio/wav">
             </audio></th>
-            <td>0.9024</td>
+            <td>0.7309</td>
             <td>3.33</td>
           </tr>
           <tr>
@@ -47,7 +47,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/LLaMA/2.wav" type="audio/wav">
             </audio></th>
-            <td>0.9538</td>
+            <td>0.8664</td>
             <td>3.46</td>
           </tr>
           <tr>
@@ -55,7 +55,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/LLaMA/3.wav" type="audio/wav">
             </audio></th>
-            <td>0.9160</td>
+            <td>0.7696</td>
             <td>3.41</td>
           </tr>
           <tr>
@@ -63,7 +63,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/LLaMA/4.wav" type="audio/wav">
             </audio></th>
-            <td>0.9472</td>
+            <td>0.8480</td>
             <td>3.42</td>
           </tr>
         </tbody>
@@ -84,7 +84,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/1.wav" type="audio/wav">
             </audio></th>
-            <td>0.9602</td>
+            <td>0.8847</td>
             <td>3.77</td>
           </tr>
           <tr>
@@ -92,7 +92,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/2.wav" type="audio/wav">
             </audio></th>
-            <td>0.9611</td>
+            <td>0.8869</td>
             <td>3.77</td>
           </tr>
           <tr>
@@ -100,7 +100,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/3.wav" type="audio/wav">
             </audio></th>
-            <td>0.9597</td>
+            <td>0.8834</td>
             <td>3.61</td>
           </tr>
           <tr>
@@ -108,7 +108,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL/4.wav" type="audio/wav">
             </audio></th>
-            <td>0.9716</td>
+            <td>0.9168</td>
             <td>3.71</td>
           </tr>
         </tbody>
@@ -129,7 +129,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/1.wav" type="audio/wav">
             </audio></th>
-            <td>0.9610</td>
+            <td>0.8864</td>
             <td>3.69</td>
           </tr>
           <tr>
@@ -137,7 +137,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/2.wav" type="audio/wav">
             </audio></th>
-            <td>0.9660</td>
+            <td>0.9008</td>
             <td>4.01</td>
           </tr>
           <tr>
@@ -145,7 +145,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/3.wav" type="audio/wav">
             </audio></th>
-            <td>0.9529</td>
+            <td>0.8437</td>
             <td>3.83</td>
           </tr>
           <tr>
@@ -153,7 +153,7 @@
             <th><audio controls>
               <source src="https://github.com/eric551130/MuiscRepo/raw/refs/heads/main/ver2/RL+Novelty/4.wav" type="audio/wav">
             </audio></th>
-            <td>0.9456</td>
+            <td>0.8864</td>
             <td>3.96</td>
           </tr>
         </tbody>
